@@ -1,0 +1,50 @@
+{
+  "term": "Spring",
+  "year": "2007",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Language",
+      "English as a Second Language"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Academic Writing"
+    ]
+  ],
+  "legacy_uid": "a191d584-3ae2-1526-a5b1-f5ee2c4accbc",
+  "instructors": {
+    "content": [
+      "60012e7c-181c-e44e-731e-250f6cb6b09a"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "5376cc88-168e-dff3-4bb1-f1a254ffb664",
+    "website": "21g-228-advanced-workshop-in-writing-for-social-sciences-and-architecture-els-spring-2007"
+  },
+  "course_title": "Advanced Workshop in Writing for Social Sciences and Architecture (ELS)",
+  "course_description": "This workshop is designed to help you write clearly, accurately and effectively in both an academic and a professional environment. In class, we analyze various forms of writing and address problems common to advanced speakers of English. We will often read one another's work.\n",
+  "department_numbers": [
+    "21G"
+  ],
+  "extra_course_numbers": "21G.227",
+  "primary_course_number": "21G.228",
+  "course_image_thumbnail": {
+    "content": "0d806d4b-d1e9-7949-2ae2-bf681fa0586c",
+    "website": "21g-228-advanced-workshop-in-writing-for-social-sciences-and-architecture-els-spring-2007"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Presentation Assignments",
+    "Written Assignments"
+  ],
+  "site_uid": "6a75f916-4770-4c0c-af03-083e0048ddb7",
+  "site_short_id": "21g.228-spring-2007",
+  "site_url_path": "courses/21g-228-advanced-workshop-in-writing-for-social-sciences-and-architecture-els-spring-2007",
+  "title": "Course Metadata"
+}
