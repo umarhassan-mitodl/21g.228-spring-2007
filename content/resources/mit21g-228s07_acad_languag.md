@@ -4,6 +4,8 @@ description: This file contains information regarding audience.
 file: /courses/21g-228-advanced-workshop-in-writing-for-social-sciences-and-architecture-els-spring-2007/0cfd9c8c4b99d2eafe8cf15d7faa8d5d_MIT21G.228S07_acad_languag.pdf
 file_size: 563721
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

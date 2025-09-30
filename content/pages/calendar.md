@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: This section features a list of activities and daily topics for the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
@@ -102,7 +104,7 @@ Resumes and cover letters: cultural differences
 
 Strategies for cover letters
 
-Homework: Pick up Career Development Workbook ({{% resource_link "06003472-baf3-4d4a-acfc-cc5368a15935" "PDF - 2.2 MB" %}}) in the Career Center. Find a job description/internship position for which you can apply online or in print - bring 2 copies to class.
+Homework: Pick up Career Development Workbook ([PDF - 2.2 MB](http://web.mit.edu/career/www/students/workbook.pdf)) in the Career Center. Find a job description/internship position for which you can apply online or in print - bring 2 copies to class.
 
 
 {{< tdclose >}}

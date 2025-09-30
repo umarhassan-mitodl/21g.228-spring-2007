@@ -4,6 +4,8 @@ description: This file contains information regarding paper to presentation.
 file: /courses/21g-228-advanced-workshop-in-writing-for-social-sciences-and-architecture-els-spring-2007/94ec783a23cd12997b3a7ef6c46d3b7e_MIT21G.228S07_paper_presen.pdf
 file_size: 115918
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
