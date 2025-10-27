@@ -100,13 +100,13 @@ Swales, John M., and Christine B. Feak. "Overview of the Research Paper." In *Ac
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Research Paper Example
 {{< tdclose >}}{{< tdopen >}}
-Brooks, Matthew V. "[Municipal Solid Waste: Effect of State-Level Programs on Waste Reduction and Increased Recycling](https://www.semanticscholar.org/paper/Municipal-Solid-Waste-%3A-Effect-of-State-Level-on-Brooks/f3c4499a58efdaec2c993da7210fe57035084d25)." *MURJ* 12 (Spring 2005): 37-40.
+Brooks, Matthew V. "{{% resource_link "2508f1c9-e216-4438-8a16-05472d90de65" "Municipal Solid Waste: Effect of State-Level Programs on Waste Reduction and Increased Recycling" %}}." *MURJ* 12 (Spring 2005): 37-40.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="2" >}}
 **Abstracts and Introductions**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Abstracts
 {{< tdclose >}}{{< tdopen >}}
-"Writing Report Abstracts." In the "Professional, Technical, and Scientific Writing" section of the [Purdue University Online Writing Lab (OWL)](http://owl.english.purdue.edu/).
+"Writing Report Abstracts." In the "Professional, Technical, and Scientific Writing" section of the {{% resource_link "f4d534ba-0e71-4c60-aa2d-cd627aafcd78" "Purdue University Online Writing Lab (OWL)" %}}.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Writing an Introduction
 {{< tdclose >}}{{< tdopen >}}
@@ -160,7 +160,7 @@ Swales, John M., and Christine A. Beer Feak. "Cohesion: THIS." In *English in To
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Preposition + Verb Example Text
 {{< tdclose >}}{{< tdopen >}}
-Greene, Howard, and Matthew Greene. "[Visits crucial to picking a college](http://the.honoluluadvertiser.com/article/2005/Jan/17/il/il08a.html)." *Island Life*, January 17, 2005.
+Greene, Howard, and Matthew Greene. "{{% resource_link "3a9fc8d2-584e-4ab3-8725-a7da5c4472a3" "Visits crucial to picking a college" %}}." *Island Life*, January 17, 2005.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Preposition + Verb Patterns
 {{< tdclose >}}{{< tdopen >}}
