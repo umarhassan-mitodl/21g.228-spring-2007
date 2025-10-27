@@ -4,8 +4,6 @@ description: This file contains information regarding forming relative clauses.
 file: /courses/21g-228-advanced-workshop-in-writing-for-social-sciences-and-architecture-els-spring-2007/eb482efad6df6eb3daa99cd0075af1a3_MIT21G.228S07_adj_clauses.pdf
 file_size: 179006
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

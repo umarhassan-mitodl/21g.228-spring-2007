@@ -5,8 +5,6 @@ description: 'This file contains information regarding practice: Subordination a
 file: /courses/21g-228-advanced-workshop-in-writing-for-social-sciences-and-architecture-els-spring-2007/aa015bcf1e62317a6ae09137c5e1d28d_MIT21G.228S07_subord_coord.pdf
 file_size: 87029
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

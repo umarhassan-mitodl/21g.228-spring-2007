@@ -4,8 +4,6 @@ description: 'This file contains information regarding defining a term: Sentence
 file: /courses/21g-228-advanced-workshop-in-writing-for-social-sciences-and-architecture-els-spring-2007/392726e76105e978cc9802dd6c147cd1_MIT21G.228S07_sent_def.pdf
 file_size: 201342
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
